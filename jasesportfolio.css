@@ -123,10 +123,11 @@ body {
 
 #perfection {
     border-radius: 100px;
+    aspect-ratio: 1/1.1;
     width: 19%;
-    height: 38%;
+    height: auto;
     position: absolute;
-    top: 350px;
+    top: 47%;
     right: 0px;
-    left: 300px;
+    left: 20%;
 }
